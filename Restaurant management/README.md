@@ -10,7 +10,8 @@ This project is part of a series, aiming to create a complete back-end system fo
 2. [Technology Stack](#technology-stack)
 3. [Database Design](#database-design)
 4. [Key Features](#key-features)
-5. [Conclusion and insights](#conclusion-and-insights)
+5. [Conclusion](#conclusion)
+6. [References and resources](#references-and-resources)
 
 ## Project Objectives
 The main goals of this project are to:
@@ -39,10 +40,10 @@ The database is structured into three main components:
    - **Tables**: Staff, Shifts, Rota.
    - **Purpose**: Logs staff working hours and shifts to calculate pizza production and delivery labor costs.
 
-### Key Features
+## Key Features
 The database follows normalization principles to reduce redundancy and improve efficiency by organizing data into related tables.
 
-### Conclusion and insights
+## Conclusion
 A restaurant sales store manager can utilize this SQL project to conduct detailed data analysis, facilitating informed decision-making and efficient management of the store’s operations as follows:
 
    - **Sales Analysis:** Identify the best-selling pizzas, assess revenue from different pizza sizes, and evaluate pricing strategies.
@@ -50,3 +51,8 @@ A restaurant sales store manager can utilize this SQL project to conduct detaile
    - **Customer Preferences:** Track customer preferences over time.
    - **Operational Efficiency:** Assess peak hours and staff the store appropriately, ensuring operational efficiency and customer satisfaction.
    - **Marketing Insights:** Further analysis can be used to target marketing campaigns, like promotions on specific types of pizzas that are popular or on days when sales are typically lower.
+
+## References and resources
+1. [Inspiration](https://www.youtube.com/watch?v=MiAl2mQ718s&list=PLR0triVyTrBX7bTPY2Clm8YS82eyJYaVp)
+2. [Database](https://www.kaggle.com/datasets/jaspearson/pizzeria-data-for-4-weeks/code)
+3. [Documentation](https://datalemur.com/sql-tutorial/intro-to-sql)
