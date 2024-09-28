@@ -17,7 +17,7 @@ Possible client questions that align with  Netflix data analysis tasks.
 -  Identify long-duration content for niche audiences.
 
 ### 6. What content has been added to Netflix in the last 5 years? Is the content upload rate increasing or decreasing?
-- ttrack the recent growth of Netflix’s content library.
+- track the recent growth of Netflix’s content library.
 
 ### 7. How much content has director 'Rajiv Chilaka' produced?
 - Analyze the work of specific content creators.
