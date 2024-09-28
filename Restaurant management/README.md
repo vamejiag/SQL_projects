@@ -54,5 +54,7 @@ A restaurant sales store manager can utilize this SQL project to conduct detaile
 
 ## References and resources
 1. [Inspiration](https://www.youtube.com/watch?v=MiAl2mQ718s&list=PLR0triVyTrBX7bTPY2Clm8YS82eyJYaVp)
-2. [Database](https://www.kaggle.com/datasets/jaspearson/pizzeria-data-for-4-weeks/code)
-3. [Documentation](https://datalemur.com/sql-tutorial/intro-to-sql)
+2. [Inspiration 2](https://github.com/akshatagrawal1998/SQL-Project-Pizza-Case-Study/blob/main/SQL%20Project%20Case%20Study%20(Pizza%20Sales%20Analysis)/Questions.txt)
+3. [Database](https://www.kaggle.com/datasets/jaspearson/pizzeria-data-for-4-weeks/code)
+4. [Documentation](https://datalemur.com/sql-tutorial/intro-to-sql)
+
