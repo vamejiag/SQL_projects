@@ -30,6 +30,7 @@ The following SQL queries are used to address the insights listed above:
 13. Count how many movies actor 'Salman Khan' appeared in during the last 10 years
 14. Identify the top 10 actors who have appeared in the highest number of Indian movies
 15. Categorize content based on the presence of the keywords 'kill' and 'violence' in the description field
+16. What is the second highest-rated movie from each country, and in which genre does it belong?
 
 ## Technologies Used
 - **SQL**: Primary language for querying the Netflix dataset
